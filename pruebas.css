@@ -133,3 +133,74 @@ img{
     }
 
 }
+
+.enlace_excel{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: 320%;
+    top: 35%;
+    right: 15%;
+
+    a {
+    text-decoration: none;
+    color: rgb(78, 172, 41);   
+
+
+    }
+
+    a:hover{
+       text-decoration: none;
+       color: rgba(13, 245, 25, 0.904); 
+
+    }
+
+}
+
+.enlace_pinterest{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: 320%;
+    top: 55%;
+    right: 7%;
+
+    a {
+    text-decoration: none;
+    color: rgb(126, 55, 55);   
+
+
+    }
+
+    a:hover{
+       text-decoration: none;
+       color: rgba(255, 0, 0, 0.904); 
+
+    }
+
+}
+
+.enlace_escribir{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: 320%;
+    top: 75%;
+    right: 11%;
+
+    a {
+    text-decoration: none;
+    color: rgb(88, 55, 126);   
+
+
+    }
+
+    a:hover{
+       text-decoration: none;
+       color: rgba(161, 87, 211, 0.904); 
+
+    }
+
+}
+
+
